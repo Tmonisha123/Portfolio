@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d82f8465-bff1-40a1-9d18-94f7c408754b" name="Changes" comment="Changed to Vite + React">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eslint.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/react.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" />
+    <list default="true" id="d82f8465-bff1-40a1-9d18-94f7c408754b" name="Changes" comment="Restarted project and added new files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/Apps.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Apps.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/ContactLinks.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/ContactLinks.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/Intro.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Intro.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/SocialLinks.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/SocialLinks.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +86,7 @@
       <workItem from="1771415361882" duration="22000" />
       <workItem from="1771415415677" duration="180000" />
       <workItem from="1771415711722" duration="59000" />
-      <workItem from="1772229609146" duration="3509000" />
+      <workItem from="1772229609146" duration="4760000" />
     </task>
     <task id="LOCAL-00001" summary="Updated background colour">
       <option name="closed" value="true" />
@@ -119,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771367617836</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Removed files">
+      <option name="closed" value="true" />
+      <created>1772233258337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772233258337</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Restarted project and added new files">
+      <option name="closed" value="true" />
+      <created>1772233286432</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772233286432</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +137,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated background colour" />
     <MESSAGE value="Changed to Vite + React" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed to Vite + React" />
+    <MESSAGE value="Removed files" />
+    <MESSAGE value="Restarted project and added new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Restarted project and added new files" />
   </component>
 </project>
